@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "43214123-3851-4c8d-8f5f-99c3bc824d55",
+    "name": "Mabel Schmeler",
+    "phone": "(401) 407-0679",
+    "email": "Myrtle76@yahoo.com",
+    "job": "Internal Metrics Analyst"
+  },
+  {
+    "id": "3a8e9469-a15e-4d03-8d52-b9be09033d45",
+    "name": "Gerardo Schmeler",
+    "phone": "366.625.4725 x088",
+    "email": "Arthur.Bruen@gmail.com",
+    "job": "Legacy Solutions Coordinator"
+  },
+  {
+    "id": "3f116671-b60e-44f5-8980-e4df0b93173f",
+    "name": "Dr. Roosevelt Yundt",
+    "phone": "(791) 390-9509",
+    "email": "Jeffrey.Brown@gmail.com",
+    "job": "Human Creative Coordinator"
+  },
+  {
+    "id": "84a076b5-e169-477a-b142-f9effe5cde17",
+    "name": "Cora Mitchell",
+    "phone": "936.397.6324",
+    "email": "Scarlett_Waelchi54@gmail.com",
+    "job": "Investor Accountability Analyst"
+  },
+  {
+    "id": "e678db16-05e7-4a6e-930d-817a8cc6c94c",
+    "name": "Jeremy Parisian",
+    "phone": "874.935.2349 x949",
+    "email": "Rogelio_Ferry@gmail.com",
+    "job": "Chief Communications Coordinator"
+  },
+  {
+    "id": "342455f8-d7fa-4170-b6c9-f4a2062bfbbd",
+    "name": "Bennie Bednar Sr.",
+    "phone": "1-848-615-4169",
+    "email": "Kathryne89@gmail.com",
+    "job": "Senior Intranet Engineer"
+  }
+]
